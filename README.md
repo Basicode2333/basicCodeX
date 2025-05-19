@@ -1,15 +1,23 @@
 # basicCodeX
 
-此仓库包含一个基于 Three.js 的 3D 控制台示例，同时提供了 CodeX 的入门教程。
+basicCodeX is a repository for testing and experiencing the capabilities of CodeX. The repository includes a Three.js-based 3D console example and introductory tutorials.
 
-## 教程快速入口
+## Goal
 
-教程位于 [tutorials](tutorials/) 目录，建议按以下顺序阅读：
+This project helps you learn through CodeX:
 
-1. [介绍](tutorials/00-introduction.md)
-2. [环境准备](tutorials/01-setup.md)
-3. [基础使用](tutorials/02-basic-usage.md)
-4. [进阶主题](tutorials/03-advanced-topics.md)
+- Computer technology
+- Git
+- Vibecoding
+- Front-end digital art
 
-希望这些内容能帮助你快速上手并深入了解 CodeX。
+## Tutorials
 
+Tutorials are available in the [tutorials](tutorials/) directory and are best read in the following order:
+
+1. [Introduction](tutorials/00-introduction.md)
+2. [Setup](tutorials/01-setup.md)
+3. [Basic Usage](tutorials/02-basic-usage.md)
+4. [Advanced Topics](tutorials/03-advanced-topics.md)
+
+We hope these resources help you get started and deepen your understanding of CodeX.
